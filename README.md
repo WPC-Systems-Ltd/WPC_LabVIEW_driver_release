@@ -1,14 +1,23 @@
 # WPC_LabVIEW_driver_release
 
+## Enviroment Required
+
+### WPC_device_driver
+At least LabVIEW 2015 is required.
+
+### WPC_device_manager
+LabVIEW 2015 SP1 Run-time is required.
+
+Download and install LabVIEW 2015 SP1 [Run-time engine](https://drive.google.com/file/d/1Uj6r65KhNxvuApiqrMkZp-NWyq-Eek-k/view).
+
 ## Installation
 
-### For WPC_device_driver
-
+### WPC_device_driver
 Unzip and install .vip with [VIPM](https://www.vipm.io/download/)
 
-### For WPC_device_manager
-
-Download and install LabVIEW 2015 SP1 [Run-time engine](https://drive.google.com/file/d/1Uj6r65KhNxvuApiqrMkZp-NWyq-Eek-k/view).  
+### WPC_device_manager
+Unzip and execute WPC Device Manager.exe
+  
 
 
 ## Examples
