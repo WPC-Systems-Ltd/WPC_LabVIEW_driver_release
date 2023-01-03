@@ -2,7 +2,7 @@
 
 ## Installation
 
-- For WPC_device_driver
+### For WPC_device_driver
 
 Unzip and install .vip with [VIPM](https://www.vipm.io/download/)
 
