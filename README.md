@@ -6,7 +6,10 @@
 
 Unzip and install .vip with [VIPM](https://www.vipm.io/download/)
 
-Download LabVIEW 2015 SP1 [Run-time engine](https://drive.google.com/file/d/1Uj6r65KhNxvuApiqrMkZp-NWyq-Eek-k/view).  
+### For WPC_device_manager
+
+Download and install LabVIEW 2015 SP1 [Run-time engine](https://drive.google.com/file/d/1Uj6r65KhNxvuApiqrMkZp-NWyq-Eek-k/view).  
+
 
 ## Examples
 
